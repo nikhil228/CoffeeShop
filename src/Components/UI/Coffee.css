@@ -1,0 +1,49 @@
+.MuiStepper-root {
+    width: 70%;
+    margin: 0 auto;
+  
+}
+.MuiStepLabel-label {
+    font-size: 20px !important;
+}
+.Heading{
+    text-decoration: underline;
+    font-size: 32px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    letter-spacing: 1px;
+}
+.div-1{
+    margin-top: 56px;
+    background-color: lightgoldenrodyellow;
+}
+.div-sub-2 {
+    border: 1px solid black;
+    margin: 14px;
+    border-radius: 12px;
+    box-shadow: 3px -2px 2px 2px gray;
+    background-color: brown;
+}
+.div-sub {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    
+}
+.img-1 {
+    width: 26%;
+}
+.button-5 {
+    
+    color: white;
+    background-color: rgb(60, 0, 255);
+    padding: 13px;
+    font-weight: 600;
+    font-size: 32px;
+    border-radius: 13px;
+    letter-spacing: 1px;
+    margin-bottom: 7px;
+}
+.span {
+    font-size: 30px;
+    font-weight: 500;
+}
